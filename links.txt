@@ -1,0 +1,8 @@
+Browsable API (με φίλτρα):
+http://127.0.0.1:8000/api/retro-games/
+
+Web φόρμα (HTML):
+http://127.0.0.1:8000/add-game/
+
+Admin panel:
+http://127.0.0.1:8000/admin/
